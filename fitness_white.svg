@@ -37,9 +37,9 @@
      inkscape:window-height="705"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="7.1681746"
-     inkscape:cx="214.09369"
-     inkscape:cy="33.035"
+     inkscape:zoom="2.4551345"
+     inkscape:cx="135.74527"
+     inkscape:cy="-10.628276"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -51,39 +51,30 @@
   </defs>
   <title
      id="title6">white</title>
-  <polygon
-     class="a"
-     points="61.62,4.7 61.66,4.75 64.08,7.16 57,14.25 53.08,14.25 45.99,7.16 48.4,4.75 48.45,4.7 "
-     id="polygon8"
-     style="fill:#ff0000"
-     transform="rotate(92.448034,150.59476,101.57991)"
-     inkscape:transform-center-x="15.624619"
-     inkscape:transform-center-y="-3.9061549" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'Poor Richard';-inkscape-font-specification:'Poor Richard';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
      x="0.47774675"
-     y="56.499245"
+     y="66.499245"
      id="text836"><tspan
        sodipodi:role="line"
        id="tspan834"
        x="0.47774675"
-       y="56.499245"
+       y="66.499245"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:4px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;">CLARITY</tspan></text>
-  <polygon
-     inkscape:transform-center-y="-3.9061549"
-     inkscape:transform-center-x="15.624619"
-     transform="rotate(92.448034,144.28146,95.530752)"
-     style="fill:#ff0000"
-     id="polygon819"
-     points="48.45,4.7 61.62,4.7 61.66,4.75 64.08,7.16 57,14.25 53.08,14.25 45.99,7.16 48.4,4.75 "
-     class="a" />
-  <polygon
-     class="a"
-     points="61.62,4.7 61.66,4.75 64.08,7.16 57,14.25 53.08,14.25 45.99,7.16 48.4,4.75 48.45,4.7 "
-     id="polygon821"
-     style="fill:#ff0000"
-     transform="rotate(92.448034,137.96816,89.481593)"
-     inkscape:transform-center-x="15.624619"
-     inkscape:transform-center-y="-3.9061549" />
+  <path
+     style="fill:#5330ff;fill-opacity:1;stroke:#5330ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 231.44215,3.7198677 -0.0619,22.3351883 9.77736,-11.167594 z"
+     id="path847"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path849"
+     d="M 215.3008,2.0913737 215.229,28.55835 226.56515,15.324868 Z"
+     style="fill:#5330ff;fill-opacity:1;stroke:#5330ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:#5330ff;fill-opacity:1;stroke:#5330ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 198.76386,2.0965267 -0.075,26.8056723 11.8552,-13.402831 z"
+     id="path851"
+     inkscape:connector-curvature="0" />
 </svg>
